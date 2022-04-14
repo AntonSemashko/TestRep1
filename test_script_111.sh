@@ -8,3 +8,7 @@ echo "*********** create repo inv *************"
 echo "*********** Downl packedges *************"
 echo "*********** Disable selinux *************"
 echo "*********** Create repository *************"
+
+
+
+echo "*********** HOHOHOHOHO !!!!*************"
