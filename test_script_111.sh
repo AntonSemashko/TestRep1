@@ -8,12 +8,6 @@ echo "*********** create repo inv *************"
 echo "*********** Downl packedges *************"
 echo "*********** Disable selinux *************"
 echo "*********** Create repository *************"
-
-
-
 echo "*********** HOHOHOHOHO !!!!*************"
-
-#OOdosdosdlsd
-
-#No time
-# After time good 
+echo "Hello!" > time.txt
+cp time.txt /home/
