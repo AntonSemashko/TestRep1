@@ -1,4 +1,4 @@
-job('example-1') {
+job('www') {
     steps {
         shell('echo Hello World!')
     }
